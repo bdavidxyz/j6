@@ -22,3 +22,5 @@ removed
 
 after action "Build site"
 from pages-deploy
+
+  - set baseurl
