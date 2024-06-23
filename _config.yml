@@ -189,6 +189,8 @@ exclude:
   - rollup.config.js
   - package*.json
 
+future: false
+
 jekyll-archives:
   enabled: [categories, tags]
   layouts:
