@@ -1,7 +1,7 @@
 ---
 title: Text and Typography 42
 author: cotes
-date: 2024-06-24 12:33:00 +0800
+date: 2024-06-24 12:33:00 +0200
 categories: [Blogging, Demo]
 tags: [typography]
 pin: false
